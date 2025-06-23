@@ -24,6 +24,9 @@ A minimal and responsive stopwatch web application built using **HTML**, **CSS**
 
 ---
 
+## Live Demo
+![url](https://rohak-thakur.github.io/PRODIGY_WD_02/)
+
 ## 🛠️ Technologies Used
 
 - **HTML** – Structure
