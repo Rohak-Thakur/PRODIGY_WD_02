@@ -18,9 +18,8 @@ A minimal and responsive stopwatch web application built using **HTML**, **CSS**
 ---
 
 ## 🖼️ Preview
-
 ![Stopwatch Demo](preview.gif)  
-*(You can include a GIF or screenshot of the app here)*
+
 ![image](https://github.com/user-attachments/assets/a176ac4f-27b8-467d-93c2-8bd417e884ba)
 
 ---
